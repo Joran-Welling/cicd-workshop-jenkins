@@ -9,7 +9,6 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 
 @SpringBootApplication
 @Configuration
-@ComponentScan(basePackages = "com.jcore.cicd.helloworld")
 public class HelloworldApplication {
 
     public static void main(String[] args) {
